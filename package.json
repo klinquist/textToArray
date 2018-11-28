@@ -1,0 +1,11 @@
+{
+  "name": "texttoarray",
+  "version": "1.0.0",
+  "description": "Use an Alfred workflow on OS X to convert carriage-return delimited lines in your clipboard to an array in your clipboard.",
+  "main": "textToArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kris Linquist <kris@linquist.net>",
+  "license": "MIT"
+}
